@@ -1,7 +1,7 @@
 Main hub: [Satoshi Service Center](https://meetup.com/satoshi-service-center)
 
 - [Austin, TX](https://meetup.com/satoshi-service-center)
-- Toledo, OH (Contact [Max](mailto:maxwell.sikorski@gmail.com))
+- Toledo, OH (Contact [Max](mailto:bitcoinmax.7l388b@bumpmail.io))
 - [Detroit, MI](https://www.meetup.com/detbtc/)
 - [Cleveland, OH](https://clevelandbitcoin.org/)
 - [Columbus, OH](https://www.meetup.com/columbusbitcoinmeetup)
