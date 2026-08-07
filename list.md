@@ -1,12 +1,13 @@
 Main hub: [Satoshi Service Center](https://meetup.com/satoshi-service-center)
 
 - [Austin, TX](https://meetup.com/satoshi-service-center)
-- Toledo, OH (Contact [Max](mailto:bitcoinmax.7l388b@bumpmail.io))
+- [Toledo, OH](https://www.meetup.com/meetup-group-cttlfnfm/)
 - [Detroit, MI](https://www.meetup.com/detbtc/)
 - [Cleveland, OH](https://clevelandbitcoin.org/)
 - [Columbus, OH](https://www.meetup.com/columbusbitcoinmeetup)
 - [Cincinnati, OH](https://www.meetup.com/cincinnati-bitcoin)
 - [Philadelphia, PA](https://www.meetup.com/philadelphia-bitcoin-club)
+- [New York City 'NYC Bitcoiners'](https://www.meetup.com/nyc-bitcoin/)
 
 Helped:
 - [Pleblab](https://pleblab.dev)
